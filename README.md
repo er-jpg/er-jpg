@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**er-jpg/er-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruno, and here is what I'm working on:
 
-Here are some ideas to get you started:
+ - Devops 🚀
+ - Data analysis 📈
+ - Hadoop ecosystem 🗄️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on:
+
+ - Elixir / Functional programming  ⚗️
+ - SQL 📁
+ - Linux 🐧
+ - English 🇬🇧
+
+I love to learn and talk about programing and lifting weights, feel free to contact me via [telegram](https://t.me/Sunbro) or [linkedin](https://www.linkedin.com/in/bruno-saragosa/).
